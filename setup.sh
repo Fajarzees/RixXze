@@ -16,7 +16,7 @@ then
 	echo "RANK BOOSTER V11"
 	echo "Mobile Legends S32"
 	echo ""
-	echo " Password : 0zn7yg4uxi -true"
+	echo " Password : wI8Cb6sSEe -true"
 	sleep 1
 	
 	sleep 2 && echo Waitting for setup...
